@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="ie=edge" http-equiv="x-ua-compatible">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+
+  <link href="{{ '/assets/css/main.css' | relative_url }}" rel="stylesheet">
+  <link href="https://fonts.gstatic.com" rel="preconnect">
+  <link href="{{ site.fonts.google_fonts }}" rel="stylesheet">
+
+  <title>{{ site.title }}{% if page.title %}{% if page.collection == 'entries' or page.layout == 'project' %} / {{
+    page.title }}{% endif %}{% endif %}</title>
+
+<body
+  class="page {% if page.body_classes %}{{ page.body_classes }}{% elsif layout.body_classes %}{{ layout.body_classes }}{% endif %}{% if site.header.fixed %} has-fixed-header{% else %} has-static-header{% endif %}">
+  <div id="wrapper" class="wrapper">
+    {{ content }}
+  </div>
+
+</body>
+
+</html>
