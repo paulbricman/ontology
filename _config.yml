@@ -3,7 +3,7 @@
 # Jekyll Config
 # --------------------
 baseurl: "/ontology"
-url: ""
+url: "https://paulbricman.com"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
