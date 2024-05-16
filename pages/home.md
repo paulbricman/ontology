@@ -2,7 +2,7 @@
 layout: home
 permalink: "/"
 title: "Ontology."
-description: "Sense-making in public. Half contingent, half evergreen. Updated biweekly."
+description: "To play a wrong note is insignificant, to play without passion is inexcusable."
 meta_description: "Jekyll Curate is a premium Jekyll blog theme"
 meta_title: Jekyll Curate
 subscribe: false

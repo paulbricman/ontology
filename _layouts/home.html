@@ -16,7 +16,8 @@ body_classes: page-home
   </div>
 </div>
 
-{% assign cards = site.entries %}
+{% assign cards = site.entries | sort: 'weight' %}
+
 {% if cards.size > 0 %}
 <div class="section pt-0">
   <div class="container">
