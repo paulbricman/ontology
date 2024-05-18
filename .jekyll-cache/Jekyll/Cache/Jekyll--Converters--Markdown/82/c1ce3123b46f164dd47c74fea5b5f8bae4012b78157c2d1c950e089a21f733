@@ -1,54 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta content="ie=edge" http-equiv="x-ua-compatible">
-  <meta content="width=device-width, initial-scale=1" name="viewport">
-
-  <link href="/ontology/assets/css/main.css" rel="stylesheet">
-  <link href="https://fonts.gstatic.com" rel="preconnect">
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Fira+Mono&display=swap" rel="stylesheet">
-
-  <title>Ontology / Instrumentality</title>
-
-<body
-  class="page page-project has-static-header">
-  <div id="wrapper" class="wrapper">
-    
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="project-description">
-        <a href="//ontology" style="text-decoration: none;">
-          <h1>
-            .. </h1>
-        </a>
-      </div>
-
-      <div class="col-12 col-md-6 mb-4">
-
-        
-        <div class="project-heading">
-          <h1>Instrumentality</h1>
-        </div>
-        
-
-
-        
-        <div class="project-description">
-          <div class="content">And so I take a step back.</div>
-        </div>
-        
-
-        <div class="gallery gallery-masonry">
-          
-        </div>
-      </div>
-
-      <div class="col-12 col-md-6 mb-4">
-        <div class="content"><p>Reducing moral uncertainty is instrumental to doing the right thing. After all, it is the process of getting to know what that thing is, and so making it infinitely more likely to be done. The alternative? Going all in on the few pockets of the moral realism roulette whose names we’ve picked up along our civilizational childhood. I wouldn’t take this bet.</p>
+I"6<p>Reducing moral uncertainty is instrumental to doing the right thing. After all, it is the process of getting to know what that thing is, and so making it infinitely more likely to be done. The alternative? Going all in on the few pockets of the moral realism roulette whose names we’ve picked up along our civilizational childhood. I wouldn’t take this bet.</p>
 
 <p>And so I take a step back, how could one reduce uncertainty about an immaterial object such as morality? That’s the focus of the first volume of <a href="https://compphil.github.io/">Elements of Computational Philosophy</a>. In brief, the book pursues an operationalization of metaphysical truth-seeking which provably boils down to a particular computable function. Unfortunately, this line of work is nowhere near the point of providing a complete and reflexively robust operationalization of truth. Exciting progress has been made on one tenth of the puzzle, yes, but there is so much to be done.</p>
 
@@ -73,28 +23,4 @@
 <p>Fourth, even if this direction turns out to not be what ought to be done, there are a number of side effects which might still make it worthwhile. For instance, there’s the attempt to mitigate misuse and loss of control through the management of particular properties of AI systems, such as <a href="https://www.openphilanthropy.org/grants/straumli-llm-cyberoffense-benchmark/">dual-use capabilities</a>. In other words, there appears to be a reasonable amount of defensibility to this course of action even when deferring prioritization on what needs to be done to global priorities researchers.</p>
 
 <p>There are many other branches left behind in this backward chaining. For instance, effective communication about this line of work might also be high-leverage, as might more actively engaging with proponents of other frames. Alternatively, one might argue that another for-profit angle aligned with reducing moral uncertainty could be automated reasoning more broadly, and so on. Though branches need to be pruned at some point, for better or worse.</p>
-</div>
-      </div>
-
-    </div>
-  </div>
-</div>
-
-<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-<script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
-<script>
-  var grid = document.querySelector('.gallery');
-  var msnry;
-
-  imagesLoaded(grid, function () {
-    msnry = new Masonry(grid, {
-      itemSelector: '.gallery-item',
-      percentPosition: true,
-    });
-  });
-</script>
-  </div>
-
-</body>
-
-</html>
+:ET
