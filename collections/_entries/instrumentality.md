@@ -13,7 +13,7 @@ Reducing moral uncertainty is instrumental to doing the right thing. After all, 
 
 And so I take a step back, how could one reduce uncertainty about an immaterial object such as morality? That's the focus of the first volume of [Elements of Computational Philosophy](https://compphil.github.io/). In brief, the book pursues an operationalization of metaphysical truth-seeking which provably boils down to a particular computable function. Unfortunately, this line of work is nowhere near the point of providing a complete and reflexively robust operationalization of truth. Exciting progress has been made on one tenth of the puzzle, yes, but there is so much to be done.
 
-And so I take a step back, how could one make progress on such an operationalization? Half a year ago, I saw four approaches.
+And so I take a step back, how could one make progress on such an operationalization? A while back, I saw four approaches.
 
 First, I could continue with independent research, coordinating with external collaborators in favorable contexts. While the academic freedom would be second to none, this approach would lack the organizational capacity required for genuinely tackling such questions.
 
