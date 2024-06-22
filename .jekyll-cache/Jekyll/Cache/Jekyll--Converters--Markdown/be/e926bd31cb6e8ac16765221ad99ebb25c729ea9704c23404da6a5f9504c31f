@@ -1,54 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta content="ie=edge" http-equiv="x-ua-compatible">
-  <meta content="width=device-width, initial-scale=1" name="viewport">
-
-  <link href="/assets/css/main.css" rel="stylesheet">
-  <link href="https://fonts.gstatic.com" rel="preconnect">
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Fira+Mono&display=swap" rel="stylesheet">
-
-  <title>Ontology / Responsibility</title>
-
-<body
-  class="page page-project has-static-header">
-  <div id="wrapper" class="wrapper">
-    
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="project-description">
-        <a href="/" style="text-decoration: none;">
-          <h1>
-            .. </h1>
-        </a>
-      </div>
-
-      <div class="col-12 col-md-6 mb-4">
-
-        
-        <div class="project-heading">
-          <h1>Responsibility</h1>
-        </div>
-        
-
-
-        
-        <div class="project-description">
-          <div class="content">One ought to study how one ought to live.</div>
-        </div>
-        
-
-        <div class="gallery gallery-masonry">
-          
-        </div>
-      </div>
-
-      <div class="col-12 col-md-6 mb-4">
-        <div class="content"><p>How ought one live? A question at once esoteric yet personal, metaphysical yet immediate. Perhaps one should follow a path oriented towards the pursuit of knowledge and wisdom. Perhaps one should follow a path of fierce involvement in the world’s affairs. Perhaps one should live out an Epicurean hedonism, a life oriented towards the pursuit of long-term personal well-being. Perhaps one should live out a Millian altruism, a life oriented towards the pursuit of collective well-being.</p>
+I"<p>How ought one live? A question at once esoteric yet personal, metaphysical yet immediate. Perhaps one should follow a path oriented towards the pursuit of knowledge and wisdom. Perhaps one should follow a path of fierce involvement in the world’s affairs. Perhaps one should live out an Epicurean hedonism, a life oriented towards the pursuit of long-term personal well-being. Perhaps one should live out a Millian altruism, a life oriented towards the pursuit of collective well-being.</p>
 
 <p>Perhaps one should live a life catering to the quantifiable demands of financial markets, and so use them as a compass that points towards “generated value.” Perhaps one should live a life catering to the legible demands of reputation markets, and so adopt society’s emergent morality as one’s own. Perhaps one should live a life catering to the visceral demands of evolutionary adaptations, and so employ pleasure and pain as ultimate custodians of good and evil.</p>
 
@@ -65,28 +15,4 @@
 <p>More concretely, given arguments in support of different views on the nature of morality, epistemology of metaphysics might provide means of weighing them against each other. For instance, one theory might be simpler, and so might get ahead on these grounds. Alternatively, one theory might require fewer resources to defend. Of course, this begs the question: On what grounds can we establish the grounds on which we can compare theories about intangible objects? Knowledge and truth seem to be intangible themselves, so epistemology of metaphysics necessarily makes itself one of its objects of study. Theories about weighing metaphysical theories should reflexively apply to themselves, as theories are also abstract structures. How simple is Occam’s razor? How defensible is identifying truth with defensibility?</p>
 
 <p>Consider again the opening question: How ought one live? There is no consensus. There is only moral uncertainty to be dealt with, and active inquiry into how to properly account for it. However, if there is such a thing as how one ought to live (e.g., promoting the well-being of others, cultivating wisdom, standing up for principles), then one ought to learn, study, <em>seek</em> the true nature of this intangible object that is morality, in order to be able to effectively incorporate its contents into one’s life. In other words, one ought to actively strive to reduce moral uncertainty—potentially by using machines—not only cope with it in its current form. And if there is no such thing, if the very construct of morality is vacuous, we might as well know for almost sure. One ought to know how one ought to live in order to live it out, or at least strive to know better.</p>
-</div>
-      </div>
-
-    </div>
-  </div>
-</div>
-
-<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-<script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
-<script>
-  var grid = document.querySelector('.gallery');
-  var msnry;
-
-  imagesLoaded(grid, function () {
-    msnry = new Masonry(grid, {
-      itemSelector: '.gallery-item',
-      percentPosition: true,
-    });
-  });
-</script>
-  </div>
-
-</body>
-
-</html>
+:ET
