@@ -1,54 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta content="ie=edge" http-equiv="x-ua-compatible">
-  <meta content="width=device-width, initial-scale=1" name="viewport">
-
-  <link href="/assets/css/main.css" rel="stylesheet">
-  <link href="https://fonts.gstatic.com" rel="preconnect">
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Fira+Mono&display=swap" rel="stylesheet">
-
-  <title>Ontology / Operationalization</title>
-
-<body
-  class="page page-project has-static-header">
-  <div id="wrapper" class="wrapper">
-    
-
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="project-description">
-        <a href="/" style="text-decoration: none;">
-          <h1>
-            .. </h1>
-        </a>
-      </div>
-
-      <div class="col-12 col-md-6 mb-4">
-
-        
-        <div class="project-heading">
-          <h1>Operationalization</h1>
-        </div>
-        
-
-
-        
-        <div class="project-description">
-          <div class="content">Grounding the abstract in the concrete.</div>
-        </div>
-        
-
-        <div class="gallery gallery-masonry">
-          
-        </div>
-      </div>
-
-      <div class="col-12 col-md-6 mb-4">
-        <div class="content"><p>Operationalizations are attempts to ground phenomena that are meaningful to us into things we can actually measure. The notion of panic might be operationalized through the time it takes a crowd to leave a room. The notion of fitness might be operationalized through average running pace over a set distance. The notion of intelligence might be operationalized through a battery of pattern matching tests. In bridging the abstract with the concrete, operationalizations enable systematic inquiry into higher-level phenomena.</p>
+I"�<p>Operationalizations are attempts to ground phenomena that are meaningful to us into things we can actually measure. The notion of panic might be operationalized through the time it takes a crowd to leave a room. The notion of fitness might be operationalized through average running pace over a set distance. The notion of intelligence might be operationalized through a battery of pattern matching tests. In bridging the abstract with the concrete, operationalizations enable systematic inquiry into higher-level phenomena.</p>
 
 <p>However, there are many different ways of operationalizing the same phenomena. The intensity of neural activity has been operationalized as the level of oxygen present in a brain region relative to a baseline, as seen in an fMRI. It has also been operationalized as the effect on the electric field around the scalp, as seen in an EEG, or on the magnetic field, as seen in a MEG. What about radiation? Ultrasound? Infrared? Which measure is most appropriate?</p>
 
@@ -64,31 +14,7 @@
 
 <p>Zooming out again, we’ve explored both directions, one leading to a Leibnizian paradox which is structurally lacking counterexamples, the other to a Cartesian one whose challenges are self-defeating. However, taken together, these two directions form just one of the many links involved in the operationalization of truthfulness described above. The point was to use this “case study” as a means of illustrating the flavors of “demandingness” that we might need to exercise in our search for durable operationalizations. While still embodying a step towards the concrete, coherent challenges remain securely in the abstract realm. That said, different segments of different operationalizations might involve different levels of concreteness, and so rely on different epistemic tools to identify.</p>
 
-<p>However, as one might use their only wish to wish for unlimited wishes, if we were to successfully operationalize one such notion, it ought to be truthfulness. Doing so would allow us to seek ever more appropriate ways of measuring phenomena of interest, and by extension, understand them. Building on the above operationalization, one might claim that the true nature of truth-seeking lies in the conceptual pressures of self-appointed challengers. However, in seeking the true nature of truth-seeking — as just one of many phenomena — beyond this seemingly arbitrary claim, through the very same dialectical mechanics, one is yet again presupposing the original claim. There are a number of such fascinating “Chinese finger traps” imbued with a totalizing coherence that emerge when inquiring about the very mechanics of inquiry. The pristine scout mindset is insufficient for venturing into the metaphysical, where the dark arts of the soldier mindset might be inherently necessary.</p>
+<p>However, as one might use their only wish to wish for unlimited wishes, if we were to successfully operationalize one such notion, it ought to be truthfulness. Doing so would allow us to seek ever more appropriate ways of measuring phenomena of interest, and by extension, understand them. Building on the above operationalization, one might claim that the true nature of truth-seeking lies in the conceptual pressures of self-appointed challengers. However, in seeking the true nature of truth-seeking — as just one of many phenomena — beyond this seemingly arbitrary claim, through the very same dialectical mechanics, one is yet again presupposing the original claim. There are a number of such fascinating “Chinese finger traps” imbued with a totalizing coherence that emerge when inquiring about the very mechanics of inquiry. The pristine scout mindset is insufficient for venturing into the metaphysical, where the dark arts of the soldier mindset might be inherencly necessary.</p>
 
 <p>Regardless, because of the extreme potential of a robust operationalization of generalized truthfulness, it is this that researchers, augmented or not, should prioritize. Engineering a truth-seeking engine to then direct at various phenomena of interest, especially metaphysical (e.g., morality), is halfway to everywhere of philosophical interest.</p>
-</div>
-      </div>
-
-    </div>
-  </div>
-</div>
-
-<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-<script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
-<script>
-  var grid = document.querySelector('.gallery');
-  var msnry;
-
-  imagesLoaded(grid, function () {
-    msnry = new Masonry(grid, {
-      itemSelector: '.gallery-item',
-      percentPosition: true,
-    });
-  });
-</script>
-  </div>
-
-</body>
-
-</html>
+:ET
